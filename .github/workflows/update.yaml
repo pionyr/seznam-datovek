@@ -1,0 +1,33 @@
+name: Update data
+
+on:
+  schedule:
+    - cron:  '33 3 * * *' # daily at 03:33
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Install libraries
+        run: sudo apt-get install -y xmlstarlet
+
+      - name: Fetch latest data
+        run: |-
+          curl -s -o - -d '<SearchSubjectRequest xmlns="http://seznam.gov.cz/ovm/ws/v1"><Nazev>Pionýr, z. s.</Nazev></SearchSubjectRequest>' -H 'Content-Type: application/xml' -X POST https://www.mojedatovaschranka.cz/sds/ws/call | xmlstarlet sel -N n="http://seznam.gov.cz/ovm/ws/v1" -t -v "//n:NazevOsoby[starts-with(.,'Pion')]" > datovky.csv
+
+      - name: Update count
+        run: |-
+          cat datovky.csv | wc -l >count.txt
+
+      - name: Commit and push if changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
