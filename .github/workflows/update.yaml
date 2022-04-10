@@ -21,14 +21,14 @@ jobs:
           curl -s -o tmp-search.xml -d '<SearchSubjectRequest xmlns="http://seznam.gov.cz/ovm/ws/v1"><Nazev>Pionýr, z. s.</Nazev></SearchSubjectRequest>' -H 'Content-Type: application/xml' -X POST https://www.mojedatovaschranka.cz/sds/ws/call
           cat tmp-search.xml | xmlstarlet sel -N n="http://seznam.gov.cz/ovm/ws/v1" -t -v "//n:NazevOsoby[starts-with(.,'Pion')]" >spolky.txt
           echo "" >>spolky.txt # add newline at the end
-          cat tmp-search.xml | xmlstarlet sel -N n="http://seznam.gov.cz/ovm/ws/v1" -t -v "//n:NazevOsoby[starts-with(.,'Pion')]/following-sibling::n:ISDS" >datovky.txt
-          echo "" >>datovky.txt # add newline at the end
+          cat tmp-search.xml | xmlstarlet sel -N n="http://seznam.gov.cz/ovm/ws/v1" -t -v "//n:NazevOsoby[starts-with(.,'Pion')]/following-sibling::n:ISDS" >ids.txt
+          echo "" >>ids.txt # add newline at the end
 
       - name: Generate CSV
         run: |-
           # Escape quote " for CSV with double qoutes "", then add quote on the beginning & end of the line
           while read line; do echo -e "\"${line//\"/\"\"}\""; done < spolky.txt >tmp-spolky-quoted.txt
-          paste -d"," tmp-spolky-quoted.txt datovky.txt >datovky.csv
+          paste -d"," tmp-spolky-quoted.txt ids.txt >datovky.csv
 
       - name: Update count
         run: |-
