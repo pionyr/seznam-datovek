@@ -31,7 +31,9 @@ jobs:
 
       - name: Update count
         run: |-
-          cat datovky.csv | wc -l >count.txt
+          DS_COUNT=$(cat datovky.csv | wc -l)
+          echo $DS_COUNT>count.txt
+          sed -E -i "s/(Aktuální počet DS: )([0-9]+)/\1$DS_COUNT/" README.md
 
       - name: Commit and push if changed
         run: |-
@@ -39,6 +41,7 @@ jobs:
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git add -A
+          git diff --cached
           timestamp=$(date -u "+%F %T %Z")
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
