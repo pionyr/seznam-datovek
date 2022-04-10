@@ -28,7 +28,8 @@ jobs:
         run: |-
           # Escape quote " for CSV with double qoutes "", then add quote on the beginning & end of the line
           while read line; do echo -e "\"${line//\"/\"\"}\""; done < spolky.txt >tmp-spolky-quoted.txt
-          paste -d"," tmp-spolky-quoted.txt ids.txt >datovky.csv
+          echo '"Spolek","ID datové schránky"'>datovky.csv
+          paste -d"," tmp-spolky-quoted.txt ids.txt >>datovky.csv
 
       - name: Update count
         run: |-
