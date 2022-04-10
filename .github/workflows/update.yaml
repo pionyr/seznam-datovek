@@ -26,7 +26,8 @@ jobs:
 
       - name: Generate CSV
         run: |-
-          while read line; do echo -e "\"$line\""; done < spolky.txt >tmp-spolky-quoted.txt
+          # Escape quote " for CSV with double qoutes "", then add quote on the beginning & end of the line
+          while read line; do echo -e "\"${line//\"/\"\"}\""; done < spolky.txt >tmp-spolky-quoted.txt
           paste -d"," tmp-spolky-quoted.txt datovky.txt >datovky.csv
 
       - name: Update count
