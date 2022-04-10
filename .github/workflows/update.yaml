@@ -33,9 +33,14 @@ jobs:
 
       - name: Update count
         run: |-
-          DS_COUNT=$(cat datovky.csv | wc -l)
+          DS_COUNT=$(cat spolky.txt | wc -l)
+          # Update count in count.txt
           echo $DS_COUNT>count.txt
+          # Update in README
           sed -E -i "s/(Aktuální počet DS: )([0-9]+)/\1$DS_COUNT/" README.md
+          # Add today record to history.csv if not exists
+          TODAY=$(date -u "+%F")
+          sed -i -n -e '/^'$TODAY',/!p' -e '$a'$TODAY,$DS_COUNT history.csv
 
       - name: Commit and push if changed
         run: |-
@@ -44,6 +49,6 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add -A
           git diff --cached
-          timestamp=$(date -u "+%F %T %Z")
-          git commit -m "Latest data: ${timestamp}" || exit 0
+          TIMESTAMP=$(date -u "+%F %T %Z")
+          git commit -m "Latest data: ${TIMESTAMP}" || exit 0
           git push
