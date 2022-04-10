@@ -17,7 +17,16 @@ jobs:
 
       - name: Fetch latest data
         run: |-
-          curl -s -o - -d '<SearchSubjectRequest xmlns="http://seznam.gov.cz/ovm/ws/v1"><Nazev>Pionýr, z. s.</Nazev></SearchSubjectRequest>' -H 'Content-Type: application/xml' -X POST https://www.mojedatovaschranka.cz/sds/ws/call | xmlstarlet sel -N n="http://seznam.gov.cz/ovm/ws/v1" -t -v "//n:NazevOsoby[starts-with(.,'Pion')]" > datovky.csv
+          curl -s -o tmp-search.xml -d '<SearchSubjectRequest xmlns="http://seznam.gov.cz/ovm/ws/v1"><Nazev>Pionýr, z. s.</Nazev></SearchSubjectRequest>' -H 'Content-Type: application/xml' -X POST https://www.mojedatovaschranka.cz/sds/ws/call
+          cat tmp-search.xml | xmlstarlet sel -N n="http://seznam.gov.cz/ovm/ws/v1" -t -v "//n:NazevOsoby[starts-with(.,'Pion')]" >spolky.txt
+          echo "" >>spolky.txt # add newline at the end
+          cat tmp-search.xml | xmlstarlet sel -N n="http://seznam.gov.cz/ovm/ws/v1" -t -v "//n:NazevOsoby[starts-with(.,'Pion')]/following-sibling::n:ISDS" >datovky.txt
+          echo "" >>datovky.txt # add newline at the end
+
+      - name: Generate CSV
+        run: |-
+          while read line; do echo -e "\"$line\""; done < spolky.txt >tmp-spolky-quoted.txt
+          paste -d"," tmp-spolky-quoted.txt datovky.txt >datovky.csv
 
       - name: Update count
         run: |-
@@ -25,9 +34,10 @@ jobs:
 
       - name: Commit and push if changed
         run: |-
+          rm tmp-*
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git add -A
-          timestamp=$(date -u)
+          timestamp=$(date -u "+%F %T %Z")
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
