@@ -6,4 +6,4 @@ Aktualizace probíhá každý den.
 
 - [Zobrazit seznam](datovky.csv)
 
-## Aktuální počet DS: 0
+## Aktuální počet DS: 92
