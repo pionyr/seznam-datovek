@@ -12,6 +12,7 @@ Pionýr, z. s. - Pionýrská skupina Dravci
 Pionýr, z. s. - Pionýrská skupina dr. Mirko Očadlíka
 Pionýr, z. s. - Pionýrská skupina Expedice
 Pionýr, z. s. - Pionýrská skupina Fráni Šrámka
+Pionýr, z. s. - Pionýrská skupina Holýšov
 Pionýr, z. s. - Pionýrská skupina Hrádek
 Pionýr, z. s. - Pionýrská skupina Hraničář Červená Voda
 Pionýr, z. s. - Pionýrská skupina J.Á.Komenského
@@ -45,7 +46,6 @@ Pionýr, z. s. - Pionýrská skupina Polička
 Pionýr, z. s. - Pionýrská skupina Přátelství, Pardubice
 Pionýr, z. s. - Pionýrská skupina Restart
 Pionýr, z. s. - Pionýrská skupina Rozmarýn v likvidaci
-Pionýr, z.s. - Pionýrská skupina Safír Kdyně
 Pionýr, z. s. - Pionýrská skupina Směr
 Pionýr, z. s. - Pionýrská skupina Spartakovci
 Pionýr, z. s. - Pionýrská skupina "speciálních sil AČR"
@@ -61,7 +61,6 @@ Pionýr, z. s. - Pionýrská skupina Tužíňáci
 Pionýr, z. s. - pionýrská skupina Výři
 Pionýr, z. s. - Pionýrská skupina Výsadkáři 8280
 Pionýr, z. s. - Pionýrská skupina Záře
-Pionýr, z.s . - Pionýrská skupina Za Vodou
 Pionýr, z. s. - Pionýrská skupina Zlínská Radooost
 Pionýr, z. s. - Pionýrská skupina Zliv
 Pionýr, z.s. - Pionýrská skupina  Zouvalka
@@ -82,6 +81,7 @@ Pionýr, z. s. - 2. pionýrská skupina Klíč
 Pionýr, z. s. - 213. pionýrská skupina UFO
 Pionýr, z. s. - 3. Pionýrská skupina
 Pionýr, z. s. - 30. pionýrská skupina Mládí
+Pionýr, z. s. - 32. pionýrská skupina Galaxie
 Pionýr, z. s. - 45. pionýrská skupina Praha 6
 Pionýr, z. s. - 49. pionýrská skupina Kočovníci
 Pionýr, z. s. - 5. pionýrská skupina Děčín
