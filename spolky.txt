@@ -8,6 +8,7 @@ Pionýr, z. s. - Olomoucko-zlínská krajská organizace Pionýra
 Pionýr, z. s. - Pionýrská skupina Akademie sportu
 Pionýr, z. s. - Pionýrská skupina Beroun - Závodí
 Pionýr, z. s. - Pionýrská skupina Čáslav
+Pionýr, z. s. - Pionýrská skupina Dobruška
 Pionýr, z. s. - Pionýrská skupina Dravci
 Pionýr, z. s. - Pionýrská skupina dr. Mirko Očadlíka
 Pionýr, z. s. - Pionýrská skupina Expedice
@@ -51,7 +52,6 @@ Pionýr, z. s. - Pionýrská skupina Směr
 Pionýr, z. s. - Pionýrská skupina Spartakovci
 Pionýr, z. s. - Pionýrská skupina "speciálních sil AČR"
 Pionýr, z. s . - Pionýrská skupina Starý Plzenec
-Pionýr, z.s. - Pionýrská skupina Svidník
 Pionýr, z. s. - Pionýrská skupina  Šenov
 Pionýr, z.s. - Pionýrská skupina Štětí
 Pionýr, z. s. - Pionýrská skupina Šumperk
@@ -61,11 +61,11 @@ Pionýr, z. s. - Pionýrská skupina Trojlístek Strašice
 Pionýr, z. s. - Pionýrská skupina Tužíňáci
 Pionýr, z. s. - pionýrská skupina Výři
 Pionýr, z. s. - Pionýrská skupina Výsadkáři 8280
+Pionýr, z. s. - Pionýrská skupina Vysočina Svitavy
 Pionýr, z. s. - Pionýrská skupina Záře
 Pionýr, z. s. - Pionýrská skupina Zlínská Radooost
 Pionýr, z. s. - Pionýrská skupina Zliv
 Pionýr, z.s. - Pionýrská skupina  Zouvalka
-Pionýr, z. s. - Pionýrská skupina 1.PTS Táborník Ml.Boleslav - pionýrské oddíly Středočeského kraje
 Pionýr, z. s. - Pionýrská skupina 14.TSP Zeměpisná společnost "Po cestách vlasti"
 Pionýr, z. s. - Plzeňská krajská organizace Pionýra
 Pionýr, z. s. - Pražská organizace Pionýra
