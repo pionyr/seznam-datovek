@@ -30,8 +30,11 @@ jobs:
         run: |-
           # Escape quote " for CSV with double qoutes "", then add quote on the beginning & end of the line
           while read line; do echo -e "\"${line//\"/\"\"}\""; done < spolky.txt >tmp-spolky-quoted.txt
+          # Assemble CSV, sort and filter repeated records
+          paste -d"," tmp-spolky-quoted.txt tmp-ico.txt ids.txt | sort -f -V | uniq >tmp-datovky.csv
+          # Assmble final CSV with HEADER
           echo '"Spolek","IČO","ID datové schránky"'>datovky.csv
-          paste -d"," tmp-spolky-quoted.txt tmp-ico.txt ids.txt >>datovky.csv
+          cat tmp-datovky.csv >>datovky.csv
 
       - name: Update count
         run: |-
