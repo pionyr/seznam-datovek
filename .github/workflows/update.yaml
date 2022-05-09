@@ -17,35 +17,21 @@ jobs:
         run: sudo apt-get install -y xmlstarlet
 
       - name: Fetch latest data
-        run: |-
-          # Workaround for API providing only 100 records at once - do multiple specific queries (and filter duplicates later)
-          INDEX=0
-          for QUERY in "Pionýr, z. s." "pionýrská skupina" "krajská organizace Pionýra" "Pražská organizace Pionýra"; do
-            curl -s -o tmp-search-$INDEX.xml -d "<SearchSubjectRequest xmlns=\"http://seznam.gov.cz/ovm/ws/v1\"><Nazev>$QUERY</Nazev></SearchSubjectRequest>" -H 'Content-Type: application/xml' -X POST https://www.mojedatovaschranka.cz/sds/ws/call
-            ((INDEX++))
-          done
-
-          rm spolky.txt ids.txt # Remove files stored in the repo
-          for SEARCH_RESULTS in tmp-search-*.xml; do
-            cat $SEARCH_RESULTS | xmlstarlet sel -N n="http://seznam.gov.cz/ovm/ws/v1" -t -v "//n:NazevOsoby[starts-with(.,'Pion')]" >>spolky.txt
-            cat $SEARCH_RESULTS | xmlstarlet sel -N n="http://seznam.gov.cz/ovm/ws/v1" -t -v "//n:NazevOsoby[starts-with(.,'Pion')]/following-sibling::n:ISDS" >>ids.txt
-            cat $SEARCH_RESULTS | xmlstarlet sel -N n="http://seznam.gov.cz/ovm/ws/v1" -t -v "//n:NazevOsoby[starts-with(.,'Pion')]/../n:Ico" >>tmp-ico.txt
-
-            # add newline at the end of each file
-            for FN in spolky.txt ids.txt tmp-ico.txt; do
-              echo "" >>$FN
-            done
-          done
+        run: bin/fetch.sh
 
       - name: Generate CSV
         run: |-
           # Escape quote " for CSV with double qoutes "", then add quote on the beginning & end of the line
-          while read line; do echo -e "\"${line//\"/\"\"}\""; done < spolky.txt >tmp-spolky-quoted.txt
+          while read line; do echo -e "\"${line//\"/\"\"}\""; done < tmp-spolky.txt >tmp-spolky-quoted.txt
           # Assemble CSV, sort and filter repeated records
-          paste -d"," tmp-spolky-quoted.txt tmp-ico.txt ids.txt | sort -f -V | uniq >tmp-datovky.csv
+          paste -d"," tmp-spolky-quoted.txt tmp-ico.txt tmp-ids.txt | sort -f -V | uniq >tmp-datovky.csv
           # Assmble final CSV with HEADER
           echo '"Spolek","IČO","ID datové schránky"'>datovky.csv
           cat tmp-datovky.csv >>datovky.csv
+
+          # Sort and filter repeated values also for spolky.txt and ids.txt
+          cat tmp-spolky.txt | sort -f -V | uniq >spolky.txt
+          cat tmp-ids.txt | sort | uniq >ids.txt
 
       - name: Update count
         run: |-
