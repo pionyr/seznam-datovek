@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Install libraries
         run: sudo apt-get install -y xmlstarlet
@@ -43,6 +43,15 @@ jobs:
           # Add today record to history.csv if not exists
           TODAY=$(date -u "+%F")
           sed -i -n -e '/^'$TODAY',/!p' -e '$a'$TODAY,$DS_COUNT history.csv
+
+      - name: Setup Python
+        uses: actions/setup-python@v3
+
+      - name: Install Python dependencies
+        run: pip install graph-cli
+
+      - name: Update history graph
+        run: graph history.csv -o history.png -X "" -Y "" -T "Počet datových schránek Pionýra a jeho pobočných spolků" --xtick-angle 45 --figsize 1600x1000  --fill --yrange 90
 
       - name: Commit and push if changed
         run: |-
