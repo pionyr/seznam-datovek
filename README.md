@@ -1,9 +1,13 @@
-# Seznam datových schránek Pionýra a pobočných spolků
+# Datové schránky Pionýra a pobočných spolků
 
 Automaticky generovaný seznam datových schránek Pionýra a pobočných spolků.
 
 Aktualizace probíhá každý den.
 
+## Aktuální počet DS: 107
+
 - [Zobrazit seznam](datovky.csv)
 
-## Aktuální počet DS: 107
+## Vývoj počtu DS
+
+![Vývoj počtu datových schránek](history.png)
