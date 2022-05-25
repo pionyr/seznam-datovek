@@ -1,7 +1,6 @@
 Pionýr, z.s . - Pionýrská skupina Za Vodou
 Pionýr, z.s. - 5. pionýrská skupina S.T.O. Jiřího Wolkera
 Pionýr, z.s. - pionýrská skupina Modřice
-Pionýr, z.s. - Pionýrská skupina PC "Florbalová akademie MB - výcvikové středisko florbalu Středočeského kraje"
 Pionýr, z.s. - Pionýrská skupina Počaply
 Pionýr, z.s. - Pionýrská skupina Safír Kdyně
 Pionýr, z.s. - Pionýrská skupina Svidník
@@ -45,6 +44,7 @@ Pionýr, z. s. - Pionýrská skupina 1.PTS Táborník Ml.Boleslav - pionýrské 
 Pionýr, z. s. - Pionýrská skupina 14.TSP Zeměpisná společnost "Po cestách vlasti"
 Pionýr, z. s. - Pionýrská skupina Akademie sportu
 Pionýr, z. s. - Pionýrská skupina Beroun - Závodí
+Pionýr, z. s. - Pionýrská skupina Bokouš
 Pionýr, z. s. - Pionýrská skupina Dobruška
 Pionýr, z. s. - Pionýrská skupina Dravci
 Pionýr, z. s. - Pionýrská skupina dr. Mirko Očadlíka
