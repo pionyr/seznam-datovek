@@ -3,7 +3,7 @@ set -e
 
 # Workaround for API providing only 100 records at once - do multiple specific queries (and filter duplicates later)
 INDEX=0
-for QUERY in "Pionýr, z. s." "pionýrská skupina" "krajská organizace Pionýra" "Pražská organizace Pionýra"; do
+for QUERY in "Pionýr, z. s." "pionýrská skupina" "krajská organizace Pionýra" "Pražská organizace Pionýra" "Zeměpisná společnost" "Florbalová akademie MB"; do
   curl -s -o tmp-search-$INDEX.xml -d "<SearchSubjectRequest xmlns=\"http://seznam.gov.cz/ovm/ws/v1\"><Nazev>$QUERY</Nazev></SearchSubjectRequest>" -H 'Content-Type: application/xml' -X POST https://www.mojedatovaschranka.cz/sds/ws/call
   ((++INDEX))
 done
