@@ -22,16 +22,16 @@ jobs:
       - name: Generate CSV
         run: |-
           # Escape quote " for CSV with double qoutes "", then add quote on the beginning & end of the line
-          while read line; do echo -e "\"${line//\"/\"\"}\""; done < tmp-spolky.txt >tmp-spolky-quoted.txt
-          # Assemble CSV, sort and filter repeated records
-          paste -d"," tmp-spolky-quoted.txt tmp-ico.txt tmp-ids.txt | sort -f -V | uniq >tmp-datovky.csv
+          while read line; do echo -e "\"${line//\"/\"\"}\""; done <tmp-spolky.txt >tmp-spolky-quoted.txt
+          # Assemble CSV and sort records
+          paste -d"," tmp-spolky-quoted.txt tmp-ico.txt tmp-ids.txt | sort -f -V >tmp-datovky.csv
           # Assmble final CSV with HEADER
           echo '"Spolek","IČO","ID datové schránky"'>datovky.csv
           cat tmp-datovky.csv >>datovky.csv
 
-          # Sort and filter repeated values also for spolky.txt and ids.txt
-          cat tmp-spolky.txt | sort -f -V | uniq >spolky.txt
-          cat tmp-ids.txt | sort | uniq >ids.txt
+          # Sort values also for spolky.txt and ids.txt
+          cat tmp-spolky.txt | sort -f -V >spolky.txt
+          cat tmp-ids.txt | sort >ids.txt
 
       - name: Update count
         run: |-
