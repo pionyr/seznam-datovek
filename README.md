@@ -4,7 +4,7 @@ Automaticky generovaný seznam datových schránek Pionýra a pobočných spolk�
 
 Aktualizace probíhá každý den.
 
-## Aktuální počet DS: 116
+## Aktuální počet DS: 117
 
 - [Zobrazit seznam](datovky.csv)
 
