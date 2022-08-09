@@ -31,6 +31,7 @@ Pionýr, z. s. - 93. pionýrská skupina ORION
 Pionýr, z. s. - 96. pionýrská skupina Veselí Medvědi
 Pionýr, z. s. - 104. pionýrská skupina Fregata
 Pionýr, z. s. - 117. pionýrská skupina Kalich
+Pionýr, z. s. - 121. pionýrská skupina Bor
 Pionýr, z. s. - 143. pionýrská skupina Jana Nerudy
 Pionýr, z. s. - 147. pionýrská skupina Galaxie
 Pionýr, z. s. - 160. pionýrská skupina Vampoš
@@ -76,10 +77,12 @@ Pionýr, z. s. - Pionýrská skupina Kunovice
 Pionýr, z. s. - Pionýrská skupina Libochovice
 Pionýr, z. s. - Pionýrská skupina Miloše Sýkory
 Pionýr, z. s. - Pionýrská skupina Mladých požárníků Obora
+Pionýr, z. s. - Pionýrská skupina Mláďata
 Pionýr, z. s. - pionýrská skupina Modelářské centrum MB
 Pionýr, z. s. - Pionýrská skupina MOV
 Pionýr, z. s. - Pionýrská skupina Mír Domažlice
 Pionýr, z. s. - Pionýrská skupina Nepomuk
+Pionýr, z. s. - Pionýrská skupina Nymburk 2
 Pionýr, z. s. - Pionýrská skupina Obránců míru Chropyně
 Pionýr, z. s. - Pionýrská skupina Otava Sušice
 Pionýr, z. s. - pionýrská skupina Pionýr Řečkovice
