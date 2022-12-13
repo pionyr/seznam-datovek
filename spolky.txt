@@ -12,6 +12,7 @@ Pionýr, z.s. - Pionýrská skupina  Zouvalka
 Pionýr, z.s. - Pionýrská skupina Štětí
 Pionýr, z. s.
 Pionýr, z. s . - Pionýrská skupina Starý Plzenec
+Pionýr, z. s.  Pardubická krajská organizace Pionýra
 Pionýr, z. s. - 1. pionýrská skupina Podskaláci
 Pionýr, z. s. - 2. pionýrská skupina Klíč
 Pionýr, z. s. - 3. Pionýrská skupina
@@ -19,6 +20,7 @@ Pionýr, z. s. - 5. pionýrská skupina Děčín
 Pionýr, z. s. - 6. pionýrská skupina Kolín
 Pionýr, z. s. - 7. pionýrská skupina Borač
 Pionýr, z. s. - 7. pionýrská skupina Děčín
+Pionýr, z. s. - 7. pionýrská skupina Potočáci Kladno v nečinnosti
 Pionýr, z. s. - 8. pionýrská skupina Příbram
 Pionýr, z. s. - 14.pionýrská skupina  Aljaška
 Pionýr, z. s. - 16. pionýrská skupina Centrum zájmové činnosti dětí - DISK
@@ -57,6 +59,7 @@ Pionýr, z. s. - Moravskoslezská krajská organizace
 Pionýr, z. s. - Olomoucko-zlínská krajská organizace Pionýra
 Pionýr, z. s. - PIONÝRSKÉ CENTRUM "" Okresní rada"" MĚLNÍK
 Pionýr, z. s. - Pionýrská skupina 1.PTS Táborník Ml.Boleslav - pionýrské oddíly Středočeského kraje
+Pionýr, z. s. - Pionýrská skupina 8. března Jindřichův Hradec
 Pionýr, z. s. - Pionýrská skupina 14.TSP Zeměpisná společnost "Po cestách vlasti"
 Pionýr, z. s. - Pionýrská skupina Akademie sportu
 Pionýr, z. s. - Pionýrská skupina Beroun 1
@@ -76,6 +79,7 @@ Pionýr, z. s. - Pionýrská skupina Fráni Šrámka
 Pionýr, z. s. - Pionýrská skupina Holýšov
 Pionýr, z. s. - Pionýrská skupina Hraničář Červená Voda
 Pionýr, z. s. - Pionýrská skupina Hrádek
+Pionýr, z. s. - Pionýrská skupina Hugo Sytaře
 Pionýr, z. s. - Pionýrská skupina Ivanovice na Hané
 Pionýr, z. s. - Pionýrská skupina Ještěr
 Pionýr, z. s. - Pionýrská skupina Jince
@@ -95,6 +99,7 @@ Pionýr, z. s. - Pionýrská skupina Kunovice
 Pionýr, z. s. - Pionýrská skupina K. Pokorného
 Pionýr, z. s. - Pionýrská skupina Letov
 Pionýr, z. s. - Pionýrská skupina Libochovice
+Pionýr, z. s. - Pionýrská skupina Lubná
 Pionýr, z. s. - Pionýrská skupina Marie Sedláčkové
 Pionýr, z. s. - Pionýrská skupina Miloše Sýkory
 Pionýr, z. s. - Pionýrská skupina Mladých požárníků Obora
@@ -108,6 +113,7 @@ Pionýr, z. s. - Pionýrská skupina Nymburk 2
 Pionýr, z. s. - Pionýrská skupina Náchod
 Pionýr, z. s. - Pionýrská skupina Obránců míru Chropyně
 Pionýr, z. s. - Pionýrská skupina Otava Sušice
+Pionýr, z. s. - Pionýrská skupina Pavučina
 Pionýr, z. s. - Pionýrská skupina Pionýr Kaznějov
 Pionýr, z. s. - pionýrská skupina Pionýr Řečkovice
 Pionýr, z. s. - Pionýrská skupina Plši
@@ -117,6 +123,7 @@ Pionýr, z. s. - Pionýrská skupina Protivín v likvidaci
 Pionýr, z. s. - Pionýrská skupina Přelouč
 Pionýr, z. s. - Pionýrská skupina Přátelství
 Pionýr, z. s. - Pionýrská skupina Přátelství, Pardubice
+Pionýr, z. s. - Pionýrská skupina Rak Rakovník
 Pionýr, z. s. - Pionýrská skupina Ralsko
 Pionýr, z. s. - Pionýrská skupina Restart
 Pionýr, z. s. - Pionýrská skupina Rozmarýn v likvidaci
