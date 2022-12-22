@@ -91,6 +91,7 @@ Pionýr, z. s. - Pionýrská skupina Hugo Sytaře
 Pionýr, z. s. - Pionýrská skupina Ivanovice na Hané
 Pionýr, z. s. - Pionýrská skupina Jevišovice
 Pionýr, z. s. - Pionýrská skupina Ještěr
+Pionýr, z. s. - Pionýrská skupina Jihlava 1
 Pionýr, z. s. - Pionýrská skupina Jince
 Pionýr, z. s. - Pionýrská skupina Jindřichův Hradec
 Pionýr, z. s. - Pionýrská skupina Jitřenka Kaliště
@@ -100,6 +101,7 @@ Pionýr, z. s. - Pionýrská skupina J.Á.Komenského
 Pionýr, z. s. - Pionýrská skupina Kamarád
 Pionýr, z. s. - Pionýrská skupina Kamarádi
 Pionýr, z. s. - Pionýrská skupina Kamarádi cest Okříšky
+Pionýr, z. s. - Pionýrská skupina Kamarádi Křenovice
 Pionýr, z. s. - Pionýrská skupina Kamýk nad Vltavou
 Pionýr, z. s. - Pionýrská skupina Kaplice
 Pionýr, z. s. - Pionýrská skupina Klubovna Čtrnáctka
@@ -127,6 +129,7 @@ Pionýr, z. s. - Pionýrská skupina Nymburk 2
 Pionýr, z. s. - Pionýrská skupina Náchod
 Pionýr, z. s. - Pionýrská skupina Obránců míru Chropyně
 Pionýr, z. s. - Pionýrská skupina Otava Sušice
+Pionýr, z. s. - Pionýrská skupina Pacov
 Pionýr, z. s. - Pionýrská skupina Pavučina
 Pionýr, z. s. - Pionýrská skupina Pionýr Kaznějov
 Pionýr, z. s. - pionýrská skupina Pionýr Řečkovice
