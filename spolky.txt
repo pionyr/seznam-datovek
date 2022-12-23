@@ -29,6 +29,7 @@ Pionýr, z. s. - 16. pionýrská skupina Centrum zájmové činnosti dětí - DI
 Pionýr, z. s. - 21. pionýrská skupina Střelka
 Pionýr, z. s. - 30. pionýrská skupina Mládí
 Pionýr, z. s. - 32. pionýrská skupina Galaxie
+Pionýr, z. s. - 34. pionýrská skupina Lesná
 Pionýr, z. s. - 43. pionýrská skupina Vinohrady
 Pionýr, z. s. - 45. pionýrská skupina Praha 6
 Pionýr, z. s. - 49. pionýrská skupina Kočovníci
@@ -130,6 +131,7 @@ Pionýr, z. s. - Pionýrská skupina Náchod
 Pionýr, z. s. - Pionýrská skupina Obránců míru Chropyně
 Pionýr, z. s. - Pionýrská skupina Otava Sušice
 Pionýr, z. s. - Pionýrská skupina Pacov
+Pionýr, z. s. - Pionýrská skupina Paprsek Unhošť
 Pionýr, z. s. - Pionýrská skupina Pavučina
 Pionýr, z. s. - Pionýrská skupina Pionýr Kaznějov
 Pionýr, z. s. - pionýrská skupina Pionýr Řečkovice
@@ -137,6 +139,7 @@ Pionýr, z. s. - Pionýrská skupina Plši
 Pionýr, z. s. - Pionýrská skupina Podskalák
 Pionýr, z. s. - Pionýrská skupina Polička
 Pionýr, z. s. - Pionýrská skupina Protivín v likvidaci
+Pionýr, z. s. - Pionýrská skupina Psohlavci
 Pionýr, z. s. - Pionýrská skupina Přelouč
 Pionýr, z. s. - Pionýrská skupina Přátelství
 Pionýr, z. s. - Pionýrská skupina Přátelství, Pardubice
