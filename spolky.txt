@@ -32,14 +32,17 @@ Pionýr, z. s. - 32. pionýrská skupina Galaxie
 Pionýr, z. s. - 34. pionýrská skupina Lesná
 Pionýr, z. s. - 43. pionýrská skupina Vinohrady
 Pionýr, z. s. - 45. pionýrská skupina Praha 6
+Pionýr, z. s. - 45. pionýrská skupina SVRATKA
 Pionýr, z. s. - 49. pionýrská skupina Kočovníci
 Pionýr, z. s. - 52. pionýrská skupina Slunovrat
 Pionýr, z. s. - 63. pionýrská skupina  SOSNA Praha 8
 Pionýr, z. s. - 68. pionýrská skupina Lvíčata
+Pionýr, z. s. - 69. pionýrská skupina Strážci míru
 Pionýr, z. s. - 73. pionýrská skupina Vodovod
 Pionýr, z. s. - 76. pionýrská skupina Borky
 Pionýr, z. s. - 76. pionýrská skupina Jánka Fábryho
 Pionýr, z. s. - 78. pionýrská skupina Skalka
+Pionýr, z. s. - 85. pionýrská skupina Letka
 Pionýr, z. s. - 87. pionýrská skupina Javor
 Pionýr, z. s. - 93. pionýrská skupina ORION
 Pionýr, z. s. - 96. pionýrská skupina Veselí Medvědi
@@ -132,6 +135,7 @@ Pionýr, z. s. - Pionýrská skupina Nymburk 2
 Pionýr, z. s. - Pionýrská skupina Náchod
 Pionýr, z. s. - Pionýrská skupina Obránců míru Chropyně
 Pionýr, z. s. - Pionýrská skupina Odra
+Pionýr, z. s. - Pionýrská skupina Omega
 Pionýr, z. s. - Pionýrská skupina Otava Sušice
 Pionýr, z. s. - Pionýrská skupina Pacov
 Pionýr, z. s. - Pionýrská skupina Paprsek Unhošť
