@@ -24,6 +24,7 @@ Pionýr, z. s. - 7. pionýrská skupina Borač
 Pionýr, z. s. - 7. pionýrská skupina Děčín
 Pionýr, z. s. - 7. pionýrská skupina Potočáci Kladno v nečinnosti
 Pionýr, z. s. - 8. pionýrská skupina Příbram
+Pionýr, z. s. - 10. pionýrská skupina
 Pionýr, z. s. - 14.pionýrská skupina  Aljaška
 Pionýr, z. s. - 16. pionýrská skupina Centrum zájmové činnosti dětí - DISK
 Pionýr, z. s. - 21. pionýrská skupina Střelka
@@ -85,6 +86,7 @@ Pionýr, z. s. - Pionýrská skupina Dobřany
 Pionýr, z. s. - Pionýrská skupina Dravci
 Pionýr, z. s. - Pionýrská skupina dr. Mirko Očadlíka
 Pionýr, z. s. - Pionýrská skupina Dubí 2
+Pionýr, z. s. - Pionýrská skupina Dřevohostice
 Pionýr, z. s. - Pionýrská skupina Expedice
 Pionýr, z. s. - Pionýrská skupina Fráni Šrámka
 Pionýr, z. s. - Pionýrská skupina Heleny Bišové
@@ -110,6 +112,7 @@ Pionýr, z. s. - Pionýrská skupina Kamarádi Křenovice
 Pionýr, z. s. - Pionýrská skupina Kamýk nad Vltavou
 Pionýr, z. s. - Pionýrská skupina Kaplice
 Pionýr, z. s. - Pionýrská skupina Klubovna Čtrnáctka
+Pionýr, z. s. - Pionýrská skupina Kojetín
 Pionýr, z. s. - Pionýrská skupina Koloušci
 Pionýr, z. s. - Pionýrská skupina Kolo Koloveč
 Pionýr, z. s. - Pionýrská skupina Kopeček v nečinnosti
