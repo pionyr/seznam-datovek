@@ -54,6 +54,7 @@ Pionýr, z. s. - 121. pionýrská skupina Bor
 Pionýr, z. s. - 137. pionýrská skupina
 Pionýr, z. s. - 143. pionýrská skupina Jana Nerudy
 Pionýr, z. s. - 147. pionýrská skupina Galaxie
+Pionýr, z. s. - 154. pionýrská skupina Paprsek
 Pionýr, z. s. - 160. pionýrská skupina Vampoš
 Pionýr, z. s. - 188. pionýrská skupina T.O.Bobříci
 Pionýr, z. s. - 213. pionýrská skupina UFO
@@ -161,11 +162,14 @@ Pionýr, z. s. - Pionýrská skupina Ralsko
 Pionýr, z. s. - Pionýrská skupina Restart
 Pionýr, z. s. - Pionýrská skupina Rozmarýn v likvidaci
 Pionýr, z. s. - Pionýrská skupina Skřítkové Blížejov
+Pionýr, z. s. - Pionýrská skupina Slávy Horníka Pardubice
 Pionýr, z. s. - Pionýrská skupina Směr
 Pionýr, z. s. - Pionýrská skupina Sokol
 Pionýr, z. s. - Pionýrská skupina Spartakovci
+Pionýr, z. s. - Pionýrská skupina STOPAŘI
 Pionýr, z. s. - Pionýrská skupina TAŽNÍ PTÁCI
 Pionýr, z. s. - Pionýrská skupina Trojlístek Strašice
+Pionýr, z. s. - Pionýrská skupina Tuláci
 Pionýr, z. s. - Pionýrská skupina Tužíňáci
 Pionýr, z. s. - Pionýrská skupina T.O. Mešnice
 Pionýr, z. s. - Pionýrská skupina Táborník
@@ -199,5 +203,6 @@ Pionýr, z. s. - Plzeňská krajská organizace Pionýra
 Pionýr, z. s. - Pražská organizace Pionýra
 Pionýr, z. s. - Středočeská krajská organizace Pionýra
 Pionýr, z. s. -  pionýrská skupina 90. TSP
+Pionýr, z. s. -  Pionýrská skupina Bílá Cerkev Strašice
 Pionýr, z. s. - Ústecká krajská organizace Pionýra
 Pionýr,  z. s. - 61. pionýrská skupina Paprsek
