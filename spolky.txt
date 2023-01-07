@@ -15,6 +15,7 @@ Pionýr, z.s. -  PIONÝRSKÉ CENTRUM PRAHA -10
 Pionýr, z. s.
 Pionýr, z. s . - Pionýrská skupina Starý Plzenec
 Pionýr, z. s.  Pardubická krajská organizace Pionýra
+Pionýr, z. s. - 1. pionýrská skupina
 Pionýr, z. s. - 1. pionýrská skupina Podskaláci
 Pionýr, z. s. - 2. pionýrská skupina Klíč
 Pionýr, z. s. - 3. Pionýrská skupina
@@ -31,6 +32,7 @@ Pionýr, z. s. - 21. pionýrská skupina Střelka
 Pionýr, z. s. - 30. pionýrská skupina Mládí
 Pionýr, z. s. - 32. pionýrská skupina Galaxie
 Pionýr, z. s. - 34. pionýrská skupina Lesná
+Pionýr, z. s. - 40. pionýrská skupina Košík
 Pionýr, z. s. - 43. pionýrská skupina Vinohrady
 Pionýr, z. s. - 45. pionýrská skupina Praha 6
 Pionýr, z. s. - 45. pionýrská skupina SVRATKA
@@ -148,6 +150,7 @@ Pionýr, z. s. - Pionýrská skupina Pionýr Kaznějov
 Pionýr, z. s. - pionýrská skupina Pionýr Řečkovice
 Pionýr, z. s. - Pionýrská skupina Plši
 Pionýr, z. s. - Pionýrská skupina Podskalák
+Pionýr, z. s. - Pionýrská skupina Polabiny II, Pardubice
 Pionýr, z. s. - Pionýrská skupina Polička
 Pionýr, z. s. - Pionýrská skupina Protivín v likvidaci
 Pionýr, z. s. - Pionýrská skupina Psohlavci
