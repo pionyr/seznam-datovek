@@ -24,6 +24,7 @@ Pionýr, z. s. - 6. pionýrská skupina Kolín
 Pionýr, z. s. - 7. pionýrská skupina Borač
 Pionýr, z. s. - 7. pionýrská skupina Děčín
 Pionýr, z. s. - 7. pionýrská skupina Potočáci Kladno v nečinnosti
+Pionýr, z. s. - 8. pionýrská skupina
 Pionýr, z. s. - 8. pionýrská skupina Příbram
 Pionýr, z. s. - 10. pionýrská skupina
 Pionýr, z. s. - 14.pionýrská skupina  Aljaška
@@ -95,6 +96,7 @@ Pionýr, z. s. - Pionýrská skupina Fráni Šrámka
 Pionýr, z. s. - Pionýrská skupina Heleny Bišové
 Pionýr, z. s. - Pionýrská skupina Holýšov
 Pionýr, z. s. - Pionýrská skupina HOMOLKA
+Pionýr, z. s. - Pionýrská skupina Horní Bříza
 Pionýr, z. s. - Pionýrská skupina Hraničář Červená Voda
 Pionýr, z. s. - Pionýrská skupina Hrádek
 Pionýr, z. s. - Pionýrská skupina Hugo Sytaře
@@ -170,6 +172,7 @@ Pionýr, z. s. - Pionýrská skupina Směr
 Pionýr, z. s. - Pionýrská skupina Sokol
 Pionýr, z. s. - Pionýrská skupina Spartakovci
 Pionýr, z. s. - Pionýrská skupina STOPAŘI
+Pionýr, z. s. - Pionýrská skupina Střela Plasy
 Pionýr, z. s. - Pionýrská skupina TAŽNÍ PTÁCI
 Pionýr, z. s. - Pionýrská skupina Trojlístek Strašice
 Pionýr, z. s. - Pionýrská skupina Tuláci
