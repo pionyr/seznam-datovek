@@ -6,6 +6,7 @@ Pionýr, z.s. - pionýrská skupina Modřice
 Pionýr, z.s. - Pionýrská skupina PC "Florbalová akademie MB - výcvikové středisko florbalu Středočeského kraje"
 Pionýr, z.s. - Pionýrská skupina Počaply
 Pionýr, z.s. - Pionýrská skupina Prácheň Horažďovice
+Pionýr, z.s. - Pionýrská skupina Pětka Trubská
 Pionýr, z.s. - Pionýrská skupina Safír Kdyně
 Pionýr, z.s. - Pionýrská skupina Svidník
 Pionýr, z.s. - Pionýrská skupina Velká Bíteš
@@ -20,6 +21,7 @@ Pionýr, z. s. - 1. pionýrská skupina Podskaláci
 Pionýr, z. s. - 2. pionýrská skupina Klíč
 Pionýr, z. s. - 3. Pionýrská skupina
 Pionýr, z. s. - 5. pionýrská skupina Děčín
+Pionýr, z. s. - 6. pionýrská skupina
 Pionýr, z. s. - 6. pionýrská skupina Kolín
 Pionýr, z. s. - 7. pionýrská skupina Borač
 Pionýr, z. s. - 7. pionýrská skupina Děčín
@@ -125,7 +127,9 @@ Pionýr, z. s. - Pionýrská skupina Kopřivnice
 Pionýr, z. s. - Pionýrská skupina Kormorán
 Pionýr, z. s. - Pionýrská skupina Kraken M
 Pionýr, z. s. - Pionýrská skupina Kunovice
+Pionýr, z. s. - Pionýrská skupina Kunvald
 Pionýr, z. s. - Pionýrská skupina K. Pokorného
+Pionýr, z. s. - Pionýrská skupina Křtiny
 Pionýr, z. s. - Pionýrská skupina Letov
 Pionýr, z. s. - Pionýrská skupina Libochovice
 Pionýr, z. s. - Pionýrská skupina Lubná
