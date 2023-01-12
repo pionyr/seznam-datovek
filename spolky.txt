@@ -18,6 +18,7 @@ Pionýr, z. s . - Pionýrská skupina Starý Plzenec
 Pionýr, z. s.  Pardubická krajská organizace Pionýra
 Pionýr, z. s. - 1. pionýrská skupina
 Pionýr, z. s. - 1. pionýrská skupina Podskaláci
+Pionýr, z. s. - 1. pionýrská skupina  Podbořany v likvidaci
 Pionýr, z. s. - 2. pionýrská skupina Klíč
 Pionýr, z. s. - 3. Pionýrská skupina
 Pionýr, z. s. - 5. pionýrská skupina Děčín
@@ -81,6 +82,7 @@ Pionýr, z. s. - Pionýrská skupina Beroun - Závodí
 Pionýr, z. s. - Pionýrská skupina Beskyd
 Pionýr, z. s. - Pionýrská skupina Beta
 Pionýr, z. s. - Pionýrská skupina Bokouš
+Pionýr, z. s. - Pionýrská skupina Boskovice
 Pionýr, z. s. - Pionýrská skupina Brontosauři
 Pionýr, z. s. - Pionýrská skupina Butovická
 Pionýr, z. s. - Pionýrská skupina Březová
@@ -154,6 +156,7 @@ Pionýr, z. s. - Pionýrská skupina Otava Sušice
 Pionýr, z. s. - Pionýrská skupina Pacov
 Pionýr, z. s. - Pionýrská skupina Paprsek Unhošť
 Pionýr, z. s. - Pionýrská skupina Pavučina
+Pionýr, z. s. - Pionýrská skupina PERSEUS
 Pionýr, z. s. - Pionýrská skupina Pionýr Kaznějov
 Pionýr, z. s. - pionýrská skupina Pionýr Řečkovice
 Pionýr, z. s. - Pionýrská skupina Plši
@@ -168,6 +171,7 @@ Pionýr, z. s. - Pionýrská skupina Přátelství
 Pionýr, z. s. - Pionýrská skupina Přátelství, Pardubice
 Pionýr, z. s. - Pionýrská skupina Radlice - Medlánky
 Pionýr, z. s. - Pionýrská skupina Radost
+Pionýr, z. s. - Pionýrská skupina Radost Košetice
 Pionýr, z. s. - Pionýrská skupina Rak Rakovník
 Pionýr, z. s. - Pionýrská skupina Ralsko
 Pionýr, z. s. - Pionýrská skupina Restart
@@ -206,6 +210,7 @@ Pionýr, z. s. - Pionýrská skupina "speciálních sil AČR"
 Pionýr, z. s. - Pionýrská skupina - KATAMARÁN
 Pionýr, z. s. - Pionýrská skupina Údolí slunce, Hamry nad Sázavou
 Pionýr, z. s. - Pionýrská skupina Čestice - Podlesáci
+Pionýr, z. s. - Pionýrská skupina Čtyřlístek
 Pionýr, z. s. - Pionýrská skupina Čápata
 Pionýr, z. s. - Pionýrská skupina Čáslav
 Pionýr, z. s. - Pionýrská skupina Šumperk
