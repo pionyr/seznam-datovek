@@ -19,6 +19,7 @@ Pionýr, z. s.  Pardubická krajská organizace Pionýra
 Pionýr, z. s. - 1. pionýrská skupina
 Pionýr, z. s. - 1. pionýrská skupina Podskaláci
 Pionýr, z. s. - 1. pionýrská skupina  Podbořany v likvidaci
+Pionýr, z. s. - 2.pionýrská skupina Julia Fučíka Kroměříž
 Pionýr, z. s. - 2. pionýrská skupina Klíč
 Pionýr, z. s. - 3. Pionýrská skupina
 Pionýr, z. s. - 5. pionýrská skupina Děčín
@@ -28,6 +29,7 @@ Pionýr, z. s. - 7. pionýrská skupina Borač
 Pionýr, z. s. - 7. pionýrská skupina Děčín
 Pionýr, z. s. - 7. pionýrská skupina Potočáci Kladno v nečinnosti
 Pionýr, z. s. - 8. pionýrská skupina
+Pionýr, z. s. - 8. pionýrská skupina Hvězda
 Pionýr, z. s. - 8. pionýrská skupina Příbram
 Pionýr, z. s. - 10. pionýrská skupina
 Pionýr, z. s. - 14.pionýrská skupina  Aljaška
@@ -96,6 +98,7 @@ Pionýr, z. s. - Pionýrská skupina dr. Mirko Očadlíka
 Pionýr, z. s. - Pionýrská skupina Dubí 2
 Pionýr, z. s. - Pionýrská skupina Dřevohostice
 Pionýr, z. s. - Pionýrská skupina Expedice
+Pionýr, z. s. - Pionýrská skupina Franka Elstnera
 Pionýr, z. s. - Pionýrská skupina Fráni Šrámka
 Pionýr, z. s. - Pionýrská skupina Heleny Bišové
 Pionýr, z. s. - Pionýrská skupina Holýšov
@@ -119,7 +122,9 @@ Pionýr, z. s. - Pionýrská skupina Kamarád
 Pionýr, z. s. - Pionýrská skupina Kamarádi
 Pionýr, z. s. - Pionýrská skupina Kamarádi cest Okříšky
 Pionýr, z. s. - Pionýrská skupina Kamarádi Křenovice
+Pionýr, z. s. - Pionýrská skupina Kamenec
 Pionýr, z. s. - Pionýrská skupina Kamýk nad Vltavou
+Pionýr, z. s. - Pionýrská skupina kapitána Otakara Jaroše
 Pionýr, z. s. - Pionýrská skupina Kaplice
 Pionýr, z. s. - Pionýrská skupina Klubovna Čtrnáctka
 Pionýr, z. s. - Pionýrská skupina Kojetín
