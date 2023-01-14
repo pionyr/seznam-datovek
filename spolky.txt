@@ -55,6 +55,7 @@ Pionýr, z. s. - 85. pionýrská skupina Letka
 Pionýr, z. s. - 87. pionýrská skupina Javor
 Pionýr, z. s. - 93. pionýrská skupina ORION
 Pionýr, z. s. - 96. pionýrská skupina Veselí Medvědi
+Pionýr, z. s. - 103. pionýrská skupina Františka Soukala
 Pionýr, z. s. - 104. pionýrská skupina Fregata
 Pionýr, z. s. - 109. pionýrská skupina Vyšehrad
 Pionýr, z. s. - 117. pionýrská skupina Kalich
@@ -164,6 +165,7 @@ Pionýr, z. s. - Pionýrská skupina Pavučina
 Pionýr, z. s. - Pionýrská skupina PERSEUS
 Pionýr, z. s. - Pionýrská skupina Pionýr Kaznějov
 Pionýr, z. s. - pionýrská skupina Pionýr Řečkovice
+Pionýr, z. s. - Pionýrská skupina Plejády Šternberk
 Pionýr, z. s. - Pionýrská skupina Plši
 Pionýr, z. s. - Pionýrská skupina Podskalák
 Pionýr, z. s. - Pionýrská skupina Polabiny II, Pardubice
@@ -181,6 +183,7 @@ Pionýr, z. s. - Pionýrská skupina Rak Rakovník
 Pionýr, z. s. - Pionýrská skupina Ralsko
 Pionýr, z. s. - Pionýrská skupina Restart
 Pionýr, z. s. - Pionýrská skupina Rozmarýn v likvidaci
+Pionýr, z. s. - Pionýrská skupina Skála
 Pionýr, z. s. - Pionýrská skupina Skřítkové Blížejov
 Pionýr, z. s. - Pionýrská skupina Slávy Horníka Pardubice
 Pionýr, z. s. - Pionýrská skupina Směr
