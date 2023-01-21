@@ -51,7 +51,7 @@ jobs:
         run: pip install graph-cli numpy==1.23.5
 
       - name: Update history graph
-        run: graph history.csv -o history.png -X "" -Y "" -T "Počet datových schránek Pionýra a jeho pobočných spolků" --xtick-angle 45 --figsize 1600x1000  --fill --yrange 90
+        run: graph history.csv -o history.png -X "" -Y "" -T "Počet datových schránek Pionýra a jeho pobočných spolků" --xtick-angle 45 --figsize 1600x1000  --fill --yrange 90 --legend ""
 
       - name: Commit and push if changed
         run: |-
