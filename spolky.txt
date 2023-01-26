@@ -24,6 +24,7 @@ Pionýr, z. s. - 1. pionýrská skupina  Podbořany v likvidaci
 Pionýr, z. s. - 2.pionýrská skupina Julia Fučíka Kroměříž
 Pionýr, z. s. - 2. pionýrská skupina Klíč
 Pionýr, z. s. - 3. Pionýrská skupina
+Pionýr, z. s. - 3. pionýrská skupina Orlová
 Pionýr, z. s. - 5. pionýrská skupina Děčín
 Pionýr, z. s. - 6. pionýrská skupina
 Pionýr, z. s. - 6. pionýrská skupina Kolín
@@ -34,6 +35,7 @@ Pionýr, z. s. - 8. pionýrská skupina
 Pionýr, z. s. - 8. pionýrská skupina Hvězda
 Pionýr, z. s. - 8. pionýrská skupina Příbram
 Pionýr, z. s. - 10. pionýrská skupina
+Pionýr, z. s. - 11. pionýrská skupina Vlci
 Pionýr, z. s. - 14.pionýrská skupina  Aljaška
 Pionýr, z. s. - 16. pionýrská skupina Centrum zájmové činnosti dětí - DISK
 Pionýr, z. s. - 21. pionýrská skupina Střelka
@@ -96,6 +98,7 @@ Pionýr, z. s. - Pionýrská skupina Březová
 Pionýr, z. s. - Pionýrská skupina Chomutov
 Pionýr, z. s. - Pionýrská skupina Deliba Kožlany
 Pionýr, z. s. - Pionýrská skupina des. St. Roubala Habartov
+Pionýr, z. s. - Pionýrská skupina Divoká Orlice
 Pionýr, z. s. - Pionýrská skupina Dobruška
 Pionýr, z. s. - Pionýrská skupina Dobřany
 Pionýr, z. s. - Pionýrská skupina Dravci
@@ -124,6 +127,7 @@ Pionýr, z. s. - Pionýrská skupina Jindřichův Hradec
 Pionýr, z. s. - Pionýrská skupina Jitřenka Kaliště
 Pionýr, z. s. - Pionýrská skupina Jitřenka Kdyně
 Pionýr, z. s. - Pionýrská skupina Jiřího Wolkera
+Pionýr, z. s. - Pionýrská skupina Jiřího Wolkera
 Pionýr, z. s. - Pionýrská skupina J.Á.Komenského
 Pionýr, z. s. - Pionýrská skupina Kamarád
 Pionýr, z. s. - Pionýrská skupina Kamarádi
@@ -141,6 +145,7 @@ Pionýr, z. s. - Pionýrská skupina Kopeček v nečinnosti
 Pionýr, z. s. - Pionýrská skupina Kopřivnice
 Pionýr, z. s. - Pionýrská skupina Kormorán
 Pionýr, z. s. - Pionýrská skupina Kraken M
+Pionýr, z. s. - Pionýrská skupina Kryštofa Kolumba
 Pionýr, z. s. - Pionýrská skupina Kunovice
 Pionýr, z. s. - Pionýrská skupina Kunvald
 Pionýr, z. s. - Pionýrská skupina K. Pokorného
