@@ -57,6 +57,7 @@ Pionýr, z. s. - 76. pionýrská skupina Jánka Fábryho
 Pionýr, z. s. - 78. pionýrská skupina Skalka
 Pionýr, z. s. - 85. pionýrská skupina Letka
 Pionýr, z. s. - 87. pionýrská skupina Javor
+Pionýr, z. s. - 91.pionýrská skupina HÁDY
 Pionýr, z. s. - 93. pionýrská skupina ORION
 Pionýr, z. s. - 96. pionýrská skupina Veselí Medvědi
 Pionýr, z. s. - 103. pionýrská skupina Františka Soukala
@@ -149,6 +150,8 @@ Pionýr, z. s. - Pionýrská skupina Kryštofa Kolumba
 Pionýr, z. s. - Pionýrská skupina Kunovice
 Pionýr, z. s. - Pionýrská skupina Kunvald
 Pionýr, z. s. - Pionýrská skupina K. Pokorného
+Pionýr, z. s. - Pionýrská skupina Kájov
+Pionýr, z. s. - Pionýrská skupina Křemže
 Pionýr, z. s. - Pionýrská skupina Křtiny
 Pionýr, z. s. - Pionýrská skupina Lesní Moudrost
 Pionýr, z. s. - Pionýrská skupina Letov
@@ -193,6 +196,7 @@ Pionýr, z. s. - Pionýrská skupina Přátelství, Pardubice
 Pionýr, z. s. - Pionýrská skupina Radlice - Medlánky
 Pionýr, z. s. - Pionýrská skupina Radost
 Pionýr, z. s. - Pionýrská skupina Radost Košetice
+Pionýr, z. s. - Pionýrská skupina Radovánka
 Pionýr, z. s. - Pionýrská skupina Rak Rakovník
 Pionýr, z. s. - Pionýrská skupina Ralsko
 Pionýr, z. s. - Pionýrská skupina Restart
