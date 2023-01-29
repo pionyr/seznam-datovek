@@ -49,6 +49,7 @@ Pionýr, z. s. - 45. pionýrská skupina Praha 6
 Pionýr, z. s. - 45. pionýrská skupina SVRATKA
 Pionýr, z. s. - 49. pionýrská skupina Kočovníci
 Pionýr, z. s. - 52. pionýrská skupina Slunovrat
+Pionýr, z. s. - 57. pionýrská skupina Práčata
 Pionýr, z. s. - 63. pionýrská skupina  SOSNA Praha 8
 Pionýr, z. s. - 68. pionýrská skupina Lvíčata
 Pionýr, z. s. - 69. pionýrská skupina Strážci míru
@@ -217,6 +218,7 @@ Pionýr, z. s. - Pionýrská skupina Trojlístek Strašice
 Pionýr, z. s. - Pionýrská skupina Tuláci
 Pionýr, z. s. - Pionýrská skupina Tužíňáci
 Pionýr, z. s. - Pionýrská skupina T.O. Mešnice
+Pionýr, z. s. - Pionýrská skupina Táborníci
 Pionýr, z. s. - Pionýrská skupina Táborník
 Pionýr, z. s. - Pionýrská skupina Ursa v nečinnosti
 Pionýr, z. s. - Pionýrská skupina Veteráni Kladno
